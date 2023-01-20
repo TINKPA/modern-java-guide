@@ -5,13 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fc49a51-8f99-4b67-a911-1a57593db4b6" name="Changes" comment="new commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BanirySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinayTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrossTraining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DebugAverageCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW1/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW1/HW1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Midterm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursionII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Toolbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnitTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Principles-of-Java-Language.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Principles-of-Java-Language.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,17 +51,78 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2K9DEOGDRJK8UnFsixtNOw4h5Bv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/danieltang/Developer/Principles-of-Java-Language/src",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HW1">
+    <configuration name="BanirySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BanirySearch" />
+      <module name="Principles-of-Java-Language" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW1.HW1" />
+      <module name="Principles-of-Java-Language" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lec2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec2" />
+      <module name="Principles-of-Java-Language" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Principles-of-Java-Language" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HW1" />
+        <item itemvalue="Application.BanirySearch" />
+        <item itemvalue="Application.Lec2" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,10 +139,18 @@
       <option name="project" value="LOCAL" />
       <updated>1673377902457</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new commit">
+      <created>1673378708110</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673378708110</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new commit" />
     <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
