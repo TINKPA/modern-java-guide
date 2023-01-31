@@ -5,32 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fc49a51-8f99-4b67-a911-1a57593db4b6" name="Changes" comment="new commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BanirySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinayTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitwiseOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CrossTraining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DebugAverageCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Final.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW1/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW1/HW1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Midterm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursionII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Temp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Toolbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UnitTesting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW2/HW2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW2/HW2_Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW2/MathVector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Principles-of-Java-Language.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Principles-of-Java-Language.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/danieltang/Developer/Principles-of-Java-Language/src",
+    "last_opened_file_path": "/Users/danieltang/IdeaProjects/Principles-of-Java-Language/src",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -79,7 +57,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HW1">
+  <component name="RunManager" selected="Application.HW2_Tester">
     <configuration name="BanirySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BanirySearch" />
       <module name="Principles-of-Java-Language" />
@@ -93,6 +71,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HW1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW2_Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW2.HW2_Tester" />
+      <module name="Principles-of-Java-Language" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW2_Tester" />
         <item itemvalue="Application.HW1" />
         <item itemvalue="Application.BanirySearch" />
         <item itemvalue="Application.Lec2" />
