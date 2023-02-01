@@ -16,8 +16,7 @@ class HW2_Tester {
         System.out.println(v1.toString());                            // [0.0]
         System.out.println(v2);                                       // [1.0, 2.0]
         v3.print();                                                   // [1.0, 3.0]
-        System.out.print('\n');
-
+        System.out.print("xxxxxxxxxxx \n");
 
         MathVector.vec2DfromPolar(2, Math.PI / 3).print();
         // close to [1.0, Math.sqrt(3.0)]

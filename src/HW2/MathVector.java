@@ -101,6 +101,6 @@ class MathVector {
 
     public String toString() { return java.util.Arrays.toString(values); }
     public void print() {
-        System.out.println(toString());
+        System.out.println(this);
     }
 }
