@@ -1,0 +1,799 @@
+(base) mjandr@Michaels-MacBook-Pro Demo % java TestGames
+
+ | | 
+-----
+ | | 
+-----
+ | | 
+
+Student, it's your move and you're Xs.
+Please choose your move by typing row col where row is 0, 1, or 2 and col is 0, 1, or 2.
+33 666
+Student, it's your move and you're Xs.
+Please choose your move by typing row col where row is 0, 1, or 2 and col is 0, 1, or 2.
+1 1
+
+ | | 
+-----
+ |X| 
+-----
+ | | 
+
+
+ | | 
+-----
+O|X| 
+-----
+ | | 
+
+Student, it's your move and you're Xs.
+Please choose your move by typing row col where row is 0, 1, or 2 and col is 0, 1, or 2.
+1 1
+Student, it's your move and you're Xs.
+Please choose your move by typing row col where row is 0, 1, or 2 and col is 0, 1, or 2.
+0 0
+
+X| | 
+-----
+O|X| 
+-----
+ | | 
+
+
+X| |O
+-----
+O|X| 
+-----
+ | | 
+
+Student, it's your move and you're Xs.
+Please choose your move by typing row col where row is 0, 1, or 2 and col is 0, 1, or 2.
+2 2
+
+X| |O
+-----
+O|X| 
+-----
+ | |X
+
+That was a winning move!
+Student (X) wins!
+
+ | | 
+-----
+ | | 
+-----
+ | | 
+
+Roy, it's your move and you're Xs.
+Please choose your move by typing row col where row is 0, 1, or 2 and col is 0, 1, or 2.
+0 1
+
+ |X| 
+-----
+ | | 
+-----
+ | | 
+
+Moss, it's your move and you're Os.
+Please choose your move by typing row col where row is 0, 1, or 2 and col is 0, 1, or 2.
+1 1
+
+ |X| 
+-----
+ |O| 
+-----
+ | | 
+
+Roy, it's your move and you're Xs.
+Please choose your move by typing row col where row is 0, 1, or 2 and col is 0, 1, or 2.
+0 0
+
+X|X| 
+-----
+ |O| 
+-----
+ | | 
+
+Moss, it's your move and you're Os.
+Please choose your move by typing row col where row is 0, 1, or 2 and col is 0, 1, or 2.
+0 2
+
+X|X|O
+-----
+ |O| 
+-----
+ | | 
+
+Roy, it's your move and you're Xs.
+Please choose your move by typing row col where row is 0, 1, or 2 and col is 0, 1, or 2.
+2 0
+
+X|X|O
+-----
+ |O| 
+-----
+X| | 
+
+Moss, it's your move and you're Os.
+Please choose your move by typing row col where row is 0, 1, or 2 and col is 0, 1, or 2.
+1 0
+
+X|X|O
+-----
+O|O| 
+-----
+X| | 
+
+Roy, it's your move and you're Xs.
+Please choose your move by typing row col where row is 0, 1, or 2 and col is 0, 1, or 2.
+0 2
+Roy, it's your move and you're Xs.
+Please choose your move by typing row col where row is 0, 1, or 2 and col is 0, 1, or 2.
+1 2
+
+X|X|O
+-----
+O|O|X
+-----
+X| | 
+
+Moss, it's your move and you're Os.
+Please choose your move by typing row col where row is 0, 1, or 2 and col is 0, 1, or 2.
+2 1
+
+X|X|O
+-----
+O|O|X
+-----
+X|O| 
+
+Roy, it's your move and you're Xs.
+Please choose your move by typing row col where row is 0, 1, or 2 and col is 0, 1, or 2.
+2 2
+
+X|X|O
+-----
+O|O|X
+-----
+X|O|X
+
+It's a draw.
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+0 1 2 3 4 5 6
+
+Student, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+3
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | |R| | | 
+0 1 2 3 4 5 6
+
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |Y|R| | | 
+0 1 2 3 4 5 6
+
+Student, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+2
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |R| | | | 
+-------------
+ | |Y|R| | | 
+0 1 2 3 4 5 6
+
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |Y| | | | 
+-------------
+ | |R| | | | 
+-------------
+ | |Y|R| | | 
+0 1 2 3 4 5 6
+
+Student, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+1
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |Y| | | | 
+-------------
+ | |R| | | | 
+-------------
+ |R|Y|R| | | 
+0 1 2 3 4 5 6
+
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |Y| | | | 
+-------------
+ | |R| | | | 
+-------------
+ |R|Y|R| | |Y
+0 1 2 3 4 5 6
+
+Student, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+6
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |Y| | | | 
+-------------
+ | |R| | | |R
+-------------
+ |R|Y|R| | |Y
+0 1 2 3 4 5 6
+
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |Y| | | | 
+-------------
+ |Y|R| | | |R
+-------------
+ |R|Y|R| | |Y
+0 1 2 3 4 5 6
+
+Student, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+1
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ |R|Y| | | | 
+-------------
+ |Y|R| | | |R
+-------------
+ |R|Y|R| | |Y
+0 1 2 3 4 5 6
+
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ |R|Y| | | | 
+-------------
+ |Y|R|Y| | |R
+-------------
+ |R|Y|R| | |Y
+0 1 2 3 4 5 6
+
+Student, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+1
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ |R| | | | | 
+-------------
+ |R|Y| | | | 
+-------------
+ |Y|R|Y| | |R
+-------------
+ |R|Y|R| | |Y
+0 1 2 3 4 5 6
+
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ |R| | | | | 
+-------------
+ |R|Y|Y| | | 
+-------------
+ |Y|R|Y| | |R
+-------------
+ |R|Y|R| | |Y
+0 1 2 3 4 5 6
+
+Student, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+3
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ |R| |R| | | 
+-------------
+ |R|Y|Y| | | 
+-------------
+ |Y|R|Y| | |R
+-------------
+ |R|Y|R| | |Y
+0 1 2 3 4 5 6
+
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ |R| |R| | | 
+-------------
+ |R|Y|Y| | | 
+-------------
+ |Y|R|Y| | |R
+-------------
+ |R|Y|R| |Y|Y
+0 1 2 3 4 5 6
+
+Student, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+5
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ |R| |R| | | 
+-------------
+ |R|Y|Y| | | 
+-------------
+ |Y|R|Y| |R|R
+-------------
+ |R|Y|R| |Y|Y
+0 1 2 3 4 5 6
+
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ |R| |R| | | 
+-------------
+ |R|Y|Y| | | 
+-------------
+ |Y|R|Y| |R|R
+-------------
+Y|R|Y|R| |Y|Y
+0 1 2 3 4 5 6
+
+Student, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+0
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ |R| |R| | | 
+-------------
+ |R|Y|Y| | | 
+-------------
+R|Y|R|Y| |R|R
+-------------
+Y|R|Y|R| |Y|Y
+0 1 2 3 4 5 6
+
+
+ | | | | | | 
+-------------
+ | | |Y| | | 
+-------------
+ |R| |R| | | 
+-------------
+ |R|Y|Y| | | 
+-------------
+R|Y|R|Y| |R|R
+-------------
+Y|R|Y|R| |Y|Y
+0 1 2 3 4 5 6
+
+Student, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+3
+
+ | | |R| | | 
+-------------
+ | | |Y| | | 
+-------------
+ |R| |R| | | 
+-------------
+ |R|Y|Y| | | 
+-------------
+R|Y|R|Y| |R|R
+-------------
+Y|R|Y|R| |Y|Y
+0 1 2 3 4 5 6
+
+
+ | | |R| | | 
+-------------
+ | | |Y| | | 
+-------------
+ |R| |R| | | 
+-------------
+ |R|Y|Y| | | 
+-------------
+R|Y|R|Y| |R|R
+-------------
+Y|R|Y|R|Y|Y|Y
+0 1 2 3 4 5 6
+
+Student, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+3
+Student, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+3
+Student, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+1
+
+ | | |R| | | 
+-------------
+ |R| |Y| | | 
+-------------
+ |R| |R| | | 
+-------------
+ |R|Y|Y| | | 
+-------------
+R|Y|R|Y| |R|R
+-------------
+Y|R|Y|R|Y|Y|Y
+0 1 2 3 4 5 6
+
+
+ | | |R| | | 
+-------------
+ |R| |Y| | | 
+-------------
+ |R| |R| | | 
+-------------
+ |R|Y|Y| | | 
+-------------
+R|Y|R|Y|Y|R|R
+-------------
+Y|R|Y|R|Y|Y|Y
+0 1 2 3 4 5 6
+
+Student, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+1
+
+ |R| |R| | | 
+-------------
+ |R| |Y| | | 
+-------------
+ |R| |R| | | 
+-------------
+ |R|Y|Y| | | 
+-------------
+R|Y|R|Y|Y|R|R
+-------------
+Y|R|Y|R|Y|Y|Y
+0 1 2 3 4 5 6
+
+That was a winning move!
+Student (R) wins!
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+0 1 2 3 4 5 6
+
+Jen, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+2
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |R| | | | 
+0 1 2 3 4 5 6
+
+Moss, it's your move and you're Ys.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+3
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |R|Y| | | 
+0 1 2 3 4 5 6
+
+Jen, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+2
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |R| | | | 
+-------------
+ | |R|Y| | | 
+0 1 2 3 4 5 6
+
+Moss, it's your move and you're Ys.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+3
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |R|Y| | | 
+-------------
+ | |R|Y| | | 
+0 1 2 3 4 5 6
+
+Jen, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+2
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |R| | | | 
+-------------
+ | |R|Y| | | 
+-------------
+ | |R|Y| | | 
+0 1 2 3 4 5 6
+
+Moss, it's your move and you're Ys.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+2
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |Y| | | | 
+-------------
+ | |R| | | | 
+-------------
+ | |R|Y| | | 
+-------------
+ | |R|Y| | | 
+0 1 2 3 4 5 6
+
+Jen, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+1
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |Y| | | | 
+-------------
+ | |R| | | | 
+-------------
+ | |R|Y| | | 
+-------------
+ |R|R|Y| | | 
+0 1 2 3 4 5 6
+
+Moss, it's your move and you're Ys.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+3
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |Y| | | | 
+-------------
+ | |R|Y| | | 
+-------------
+ | |R|Y| | | 
+-------------
+ |R|R|Y| | | 
+0 1 2 3 4 5 6
+
+Jen, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+3
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |Y|R| | | 
+-------------
+ | |R|Y| | | 
+-------------
+ | |R|Y| | | 
+-------------
+ |R|R|Y| | | 
+0 1 2 3 4 5 6
+
+Moss, it's your move and you're Ys.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+5
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |Y|R| | | 
+-------------
+ | |R|Y| | | 
+-------------
+ | |R|Y| | | 
+-------------
+ |R|R|Y| |Y| 
+0 1 2 3 4 5 6
+
+Jen, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+0
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |Y|R| | | 
+-------------
+ | |R|Y| | | 
+-------------
+ | |R|Y| | | 
+-------------
+R|R|R|Y| |Y| 
+0 1 2 3 4 5 6
+
+Moss, it's your move and you're Ys.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+1
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |Y|R| | | 
+-------------
+ | |R|Y| | | 
+-------------
+ |Y|R|Y| | | 
+-------------
+R|R|R|Y| |Y| 
+0 1 2 3 4 5 6
+
+Jen, it's your move and you're Rs.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+4
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |Y|R| | | 
+-------------
+ | |R|Y| | | 
+-------------
+ |Y|R|Y| | | 
+-------------
+R|R|R|Y|R|Y| 
+0 1 2 3 4 5 6
+
+Moss, it's your move and you're Ys.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+8
+Moss, it's your move and you're Ys.
+Please choose your move by typing a column number: 0, 1, 2, 3, 4, 5, or 6.
+4
+
+ | | | | | | 
+-------------
+ | | | | | | 
+-------------
+ | |Y|R| | | 
+-------------
+ | |R|Y| | | 
+-------------
+ |Y|R|Y|Y| | 
+-------------
+R|R|R|Y|R|Y| 
+0 1 2 3 4 5 6
+
+That was a winning move!
+Moss (Y) wins!
+(base) mjandr@Michaels-MacBook-Pro Demo % 
