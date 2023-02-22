@@ -20,6 +20,7 @@ public abstract class TwoPlayerBoardGame {
 
     public final void play() {
         for (int i = 0; i < MAX_MOVES; ++i) {
+            System.out.printf("MaxMoves:%d CurrentMoves:%d", MAX_MOVES, i);
             System.out.println(this);
 
             do {

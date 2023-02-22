@@ -1,0 +1,49 @@
+BOUNCING BALL OBJECTS
+
+Here are the objects one sees
+upon executing BouncingBall.java...
+
+           JFrame
+            /--------------------\
+            | JPanel             |
+            |  /--------------\  |
+            |  |              |  |
+            |  |              |  |
+            |  |              |  |
+            |  |              |  |
+            |  \--------------/  |
+            |                    |
+            | Container          |
+            |  /--------------\  |
+            |  | JButton      |  |
+            |  |  /--------\  |  |
+            |  |  |        |  |  |
+            |  |  |        |  |  |
+            |  |  \--------/  |  |
+            |  |              |  |
+            |  | JButton      |  |
+            |  |  /--------\  |  |
+            |  |  |        |  |  |
+            |  |  |        |  |  |
+            |  |  \--------/  |  |
+            |  \--------------/  |
+            \--------------------/
+
+Notice how the nestings of JPanel and JButtons
+are imitated by the inner classes that we write.
+
+
+Here are the relevant classes
+drawn in an inheritance diagram.
+
+                 Object
+                    |
+                Component
+                    |
+                Container
+               /    |
+         Window JComponent
+           |        |     \
+         Frame   JPanel    AbstractButton
+           |                     |
+         JFrame               JButton
