@@ -1,6 +1,6 @@
 package HW1;
 
-class HW1 {
+public class HW1 {
     public static void main(String args[]) {
         binary(0).equals("0");
         binary(-888).equals("-1101111000");

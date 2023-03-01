@@ -117,7 +117,6 @@ public final class ConnectFour extends TwoPlayerBoardGame {
             j--;
         }
         return count >= 4;
-        // Todo: TicTacToe can also use this method
     }
 
     protected void celebrateMove() {
